@@ -1,5 +1,30 @@
 # noteTaker-Repo
 
+## Description
+
+Backend application utilizing previously supplied assets to establish an easy-to-use note-taking system. Saved note data is recorded and persists after closing and re-opening the application
+<br>
+Main challenges in establishing this application came from parsing the syntax needed to connect to the database json files, along with updating their contents in real-time with each additional note. 
+## Installation
+
+
+- Go to https://github.com/AugustusMadden/noteTaker-repo
+- Press the green code button on the top-right
+- Open Terminal/GitBash, and navigate to the space where you want the file to exist
+- Use the command `git clone <url>` and download
+
+## Usage
+
+Open the application at ![https://still-river-81456.herokuapp.com/](https://still-river-81456.herokuapp.com/). From there, click the 'Get Started' button, and enter a title and text into their respective fields.
+  ![Sheenshot of notes page](images/screenshot.PNG)
+## Credits
+
+Special thanks to MDN WebDocs and W3 for assistance.
+
+- https://developer.mozilla.org/en-US/docs/Web/CSS
+- https://www.w3schools.com/html/default.asp
+
+
 MIT License
 
 Copyright (c) 2022 AugustusMadden
